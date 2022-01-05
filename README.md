@@ -1,4 +1,7 @@
-# My Universal React Project
+# Instagram Clone React Project
+
+- started 01-04-2022
+- currently in development
 
 <p>
   <!-- iOS -->

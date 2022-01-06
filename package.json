@@ -1,9 +1,10 @@
 {
   "dependencies": {
-    "expo": "^44.0.3",
+    "expo": "^1.0.0",
     "react": "17.0.1",
     "react-dom": "17.0.1",
-    "react-native": "^0.61.4",
+    "react-native": "^0.66.4",
+    "react-native-elements": "^3.4.2",
     "react-native-web": "0.17.1",
     "yarn": "^1.22.17"
   },

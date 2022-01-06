@@ -11,11 +11,15 @@ const Stories = () => {
                 showsHorizontalScrollIndicator={false}
             >
                 {USERS.map((story, index) => (
-                    <Image source={{uri: story.image}} style={styles.story} />
+                    <View key={ index } style={{ alignItems: 'center'}}>
+                        <Image source={{uri: story.image}} style={styles.story} />
+                        <Text style={{ color: 'white' }}>
+                            { story.user.length > 11 ? story.user.slice(0, 10).toLowerCase() + ' ... ' : story.user.toLowerCase() }
+                        </Text>
+                    </View>                
                 ))}
 
             </ScrollView>
-            <Text style={{ color: 'white' }}>Stories</Text>
         </View>
     )
 }
@@ -26,10 +30,14 @@ const styles = StyleSheet.create({
         height: 70,
         borderRadius: 50,
         marginLeft: 6,
-        borderWidth: 2,
-        borderColor: '#ff8501',
+        borderWidth: 3,
+        borderColor: '#FF3250',
 
     },
 })
 
-export default Stories
+export default Stories;
+
+
+// LINE 17 - is for limiting the character length of the user name in stories to be under 11 characters and shows the name is longer with ... notation
+

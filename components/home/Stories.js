@@ -20,7 +20,16 @@ const Stories = () => {
                 ))}
 
             </ScrollView>
+            
+            <View
+            style={{ 
+                borderBottomColor: 'gray',
+                borderBottomWidth: 1,
+                padding: 5,
+            }}
+        />
         </View>
+        
     )
 }
 

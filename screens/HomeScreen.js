@@ -21,7 +21,7 @@ const HomeScreen = () => {
 
 const styles = StyleSheet.create({
     container: {
-        backgroundColor: 'black',
+        backgroundColor: '#1d1606',
         flex: 1,
     },
 })

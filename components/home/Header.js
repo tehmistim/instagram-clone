@@ -33,7 +33,9 @@ const Header = () => {
                 </TouchableOpacity>
                 <TouchableOpacity>
                     <View style={styles.unreadBadge}>
-                        <Text styles={styles.unreadBadgeText}>16</Text>
+                        <Text styles={styles.unreadBadgeText}>
+                            16
+                        </Text>
                     </View>
                     <Image 
                     source={{uri: 'https://img.icons8.com/fluency-systems-regular/60/ffffff/facebook-messenger.png'}}
@@ -46,7 +48,7 @@ const Header = () => {
 }
 
 const styles = StyleSheet.create({
-    // StyleSheet will need to be imported in this useage
+    // StyleSheet will need to be imported in this usage
     container: {
         justifyContent: 'space-between',
         alignItems: 'center',
@@ -72,7 +74,7 @@ const styles = StyleSheet.create({
     },
 
     unreadBadge: {
-        backgroundColor: '#FF3250',
+        backgroundColor: '#fff556',
         position: 'absolute',
         left: 20,
         bottom: 18,
@@ -86,7 +88,7 @@ const styles = StyleSheet.create({
 
     unreadBadgeText: {
         color: 'white',
-        fontWeight: '600',
+        fontWeight: '800',
     },
 })
 

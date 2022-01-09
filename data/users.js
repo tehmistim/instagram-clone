@@ -6,7 +6,7 @@ export const USERS = [
 
     {
         user: 'bali-sand',
-        image: 'https://scontent-atl3-1.xx.fbcdn.net/v/t39.30808-6/271293090_1111462539682817_6248979554451992523_n.jpg?_nc_cat=103&ccb=1-5&_nc_sid=730e14&_nc_ohc=oW8fgzlq3KYAX_tG7nS&_nc_ht=scontent-atl3-1.xx&oh=00_AT-QHsc5_roCzbeKBKGTfVS8otBYhyECllkCerSbhEV0jA&oe=61D9BB16',
+        image: 'https://scontent-atl3-1.xx.fbcdn.net/v/t39.30808-6/271293090_1111462539682817_6248979554451992523_n.jpg?_nc_cat=103&ccb=1-5&_nc_sid=730e14&_nc_ohc=k4IEM2k7XpcAX8kiLK_&_nc_ht=scontent-atl3-1.xx&oh=00_AT8vuRZotE5oUhICpx8foTa7DNgI-akfYm37joSUPJ6JzA&oe=61DFA9D6',
     },
 
     {
@@ -21,6 +21,6 @@ export const USERS = [
 
     {
         user: 'notsobindi',
-        image: 'https://scontent-atl3-1.xx.fbcdn.net/v/t39.30808-6/271169857_1111462673016137_2320446210007404253_n.jpg?_nc_cat=100&ccb=1-5&_nc_sid=730e14&_nc_ohc=J54Kj-w-chwAX9RFy9e&_nc_ht=scontent-atl3-1.xx&oh=00_AT_ou9omTJyWBDXfn1kA9OU3lgg2kD7ucQWfisvM85GCVg&oe=61D98723',
+        image: 'https://scontent-atl3-1.xx.fbcdn.net/v/t39.30808-6/271169857_1111462673016137_2320446210007404253_n.jpg?_nc_cat=100&ccb=1-5&_nc_sid=730e14&_nc_ohc=echeZTngZpwAX-sOPIG&_nc_ht=scontent-atl3-1.xx&oh=00_AT_XjBlxlqA2IOgwo_kpvElAeW2IBWaPEJtoYWW65zit6Q&oe=61DF75E3',
     },
 ]

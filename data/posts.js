@@ -19,7 +19,7 @@ export const POSTS = [
         ],
     },
     {
-        imageUrl: 'https://scontent-atl3-1.xx.fbcdn.net/v/t39.30808-6/271232461_1111462596349478_1234782829872096700_n.jpg?_nc_cat=102&ccb=1-5&_nc_sid=730e14&_nc_ohc=wTi6Uhx0-3MAX9yPuE7&_nc_ht=scontent-atl3-1.xx&oh=00_AT8NDO0zCI6UM3b4Zph043yleqQOaLO6mRYU3w4Ce52Wuw&oe=61DA0BF7',
+        imageUrl: 'https://scontent-atl3-1.xx.fbcdn.net/v/t39.30808-6/260274003_1089136311915440_5074119103029764617_n.jpg?_nc_cat=104&ccb=1-5&_nc_sid=8bfeb9&_nc_ohc=yFunb2WMPkQAX_xrV2E&tn=-FCt_LVt8uzw5SV5&_nc_ht=scontent-atl3-1.xx&oh=00_AT9obCRBgIamjkdTBqoZQGYxTu35GHVbRRR_lh-P7YkB4A&oe=61E062C7',
         user: USERS[2].user,
         likes: 210,
         caption: 'Can you believe we all have a twin, lol. #twizies',
@@ -47,7 +47,7 @@ export const POSTS = [
         imageUrl: 'https://scontent-atl3-1.xx.fbcdn.net/v/t39.30808-6/266715094_1097859414376463_5726942724049947060_n.jpg?_nc_cat=107&ccb=1-5&_nc_sid=8bfeb9&_nc_ohc=a2HY4_ZA8xMAX-p_QGr&_nc_ht=scontent-atl3-1.xx&oh=00_AT8VqxcDrMqmPmVsL4Ys-GMLDVNtJ0imFwmRXAfEv5A1mQ&oe=61DA7DAA',
         user: USERS[2].user,
         likes: 307,
-        caption: 'I mean we were cute babies!',
+        caption: 'I meeeean, we were cute babies!',
         profile_picture: USERS[2].image,
         comments: [
             {
